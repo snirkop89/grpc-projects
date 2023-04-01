@@ -1,0 +1,7 @@
+bin/
+
+# TLS related files
+**/*.key
+**/*.crt
+**/*.pem
+**/*.csr
